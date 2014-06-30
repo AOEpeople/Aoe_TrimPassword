@@ -1,6 +1,6 @@
 {
     "name": "aoepeople/aoe_trimpassword",
-    "license": "OSL-3.0",
+    "license": "GPLv3",
     "type": "magento-module",
     "description": "Trims submitted login username/password to remove leading/trailing spaces",
     "require": {
@@ -9,7 +9,7 @@
     "authors":[
         {
             "name":"Fabrizio Branca",
-            "email":"mail@{firstname}-{lastname}.de"
+            "email":"fabrizio.branca@aoe.com"
         }
     ]
 }
